@@ -18,3 +18,5 @@
 akatoollite에서는 쓰이지도 않는 ipitin의존성을 지움
 
 그렇게 akatoolLite라는 버전으로 바꿨고, 기존 akatool은 akatoolLite를 불러오는식으로 바꿀 생각임.
+
+또한, `http://c.x3.kro.kr`도메인이 만료되면서, 의미없는 url을 수정함.
