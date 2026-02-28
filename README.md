@@ -15,4 +15,6 @@
 
 그러나, 작성자의 학업 방황이 끝나고 나서, 그런 잣거리가 이상해보였기때문에, 걍 edprompt의존성에서 쓰이지도 않는 owopkg를 없에서 정상화함.
 
+akatoollite에서는 쓰이지도 않는 ipitin의존성을 지움
+
 그렇게 akatoolLite라는 버전으로 바꿨고, 기존 akatool은 akatoolLite를 불러오는식으로 바꿀 생각임.
