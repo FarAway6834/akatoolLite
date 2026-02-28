@@ -1,6 +1,8 @@
+assert 0, "confapp is not yet released"
+
 from csv import reader as __reader__
 from sys import argv as _a
-import akatool
+import akatoollite
 def loader(f):
     with open(f) as f:
         for res in __reader__(f):
