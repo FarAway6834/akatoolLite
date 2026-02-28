@@ -3,6 +3,10 @@
 
 *`pip install akatoollite`*
 
+## README
+
+confapp is not yet released
+
 ## warning
 
 1. it use __builtin__ scope. (incognito chrome opener in windows, because of that env is win)
