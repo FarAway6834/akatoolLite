@@ -1,13 +1,13 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='akatool',
-    version='0.0.5',
+    name='akatoollite',
+    version='0.0.1',
     description='read descript thag writed by korean what write in github.',
     author='du7ec',
     author_email='dutec6834@gmail.com',
-    url='https://github.com/FarAway6834/akatool',
-    install_requires=['edprompt', 'lbdc', 'sympy', 'ipitin'],
+    url='https://github.com/FarAway6834/akatoolLite',
+    install_requires=['edprompt', 'lbdc', 'sympy'],
     packages=find_packages(exclude=[]),
     python_requires='>=3.6',
     package_data={},
