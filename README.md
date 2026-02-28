@@ -1,5 +1,6 @@
-# akatool
-학원 공부용 툴
+# akatoolLite
+
+akatool의 lite ver
 
 *`pip install akatoollite`*
 
