@@ -1,6 +1,6 @@
 # akatoolLite
 
-akatool의 lite ver
+[akatool](https://github.com/FarAway6834/akatool)의 lite ver
 
 *`pip install akatoollite`*
 
