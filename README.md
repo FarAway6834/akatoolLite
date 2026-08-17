@@ -18,7 +18,7 @@ confapp is not yet released
 
 ㅂㅅ같은 의존성을가진 edprompt페키지 사용하여서 프로그래밍하는 툴킷이었음, 그냥 설치 하나로 뚜따하는 ㅂㅅ같은짓을 했었음.
 
-그러나, 작성자의 학업 방황이 끝나고 나서, 그런 잣거리가 이상해보였기때문에, 걍 edprompt의존성에서 쓰이지도 않는 owopkg를 없에서 정상화함.
+그러나, 작성자의 학업 방황이 끝나고 나서, 그런 잣거리가 이상해보였기때문에, 걍 [edprompt](https://faraway6834.github.io/edprompt)의존성에서 쓰이지도 않는 owopkg를 없에서 정상화함.
 
 akatoollite에서는 쓰이지도 않는 ipitin의존성을 지움
 
